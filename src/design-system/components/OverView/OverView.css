@@ -1,0 +1,15 @@
+.over-view {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #000000b5;
+}
+.over-view .card {
+  background-color: transparent;
+  border: none;
+  color: #9e9e9e;
+}
+.over-view .card svg {
+  color: #e91e63;
+  font-size: 30px;
+  margin-bottom: 20px;
+}

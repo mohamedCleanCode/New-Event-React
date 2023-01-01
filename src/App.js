@@ -1,11 +1,9 @@
-import { faUser } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import OverView from "./design-system/components/OverView";
 
 function App() {
   return (
     <div className="App">
-      Test
-      <FontAwesomeIcon icon={faUser} />
+      <OverView />
     </div>
   );
 }
