@@ -1,9 +1,9 @@
-import OverView from "./design-system/components/OverView";
+import Home from "./pages/Home/Home";
 
 function App() {
   return (
     <div className="App">
-      <OverView />
+      <Home />
     </div>
   );
 }
