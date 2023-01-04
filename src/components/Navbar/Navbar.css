@@ -1,0 +1,11 @@
+.navbar .active,
+.nav-link:hover {
+  color: #f44336 !important;
+}
+.nav-link {
+  transition: 0.3s;
+}
+.position-fixed {
+  position: fixed !important;
+  z-index: 100;
+}

@@ -1,9 +1,0 @@
-.navbar .active {
-  color: rgb(38, 0, 255) !important;
-}
-.nav-link {
-  transition: 0.3s;
-}
-.nav-link:hover {
-  color: rgb(38, 0, 255) !important;
-}
